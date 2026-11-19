@@ -1,0 +1,495 @@
+Iowa wiki verification, run 2026-11-19 11:11 CST
+PASS 491  FAIL 0  (claims checked: 416)
+
+PASS  Data Hub: 99 counties for each of 2018/2022/2026
+PASS  Registration 2022: Data Hub = SOS CoNov22.pdf (Dem active+inactive, grand total), 99 counties  []
+PASS  Registration 2018: Data Hub Dem active = SOS CoNov18.pdf, 99 counties  []
+PASS  2022 county ENR XML: 99 county files
+PASS  2022 canvass PDF (fresh pdftotext): 99 county Total rows
+PASS  2022 turnout PDF: 99 counties
+PASS  2022 Dem/Rep governor votes: county ENR XML = State Canvass PDF, 99 counties  []
+PASS  2022 ballots: SOS turnout PDF = canvass governor total incl. under/over, 99 counties  []
+NOTE  2022 ballots, county ENR XML snapshot (Nov 2022) vs official SOS turnout report: Linn: ENR XML 94,130 vs canvass/turnout 94,129. The wiki uses the official SOS turnout report / State Canvass.
+PASS  2018 canvass + turnout PDFs: 99 counties each
+PASS  2018 ballots: turnout PDF = canvass governor total incl. under/over, 99 counties  []
+PASS  2026 ENR: 99 counties + totals parsed (turnout and governor)
+PASS  2026 ENR: county sums equal ENR statewide totals (D, R, ballots)
+PASS  2026 ENR still unofficial (final-upload flag false)  updated 11/19/2026 11:01:36 AM CST
+PASS  Live ENR version check: saved v387276 is current  live current_ver = 387276 at 2026-11-19 11:11 CST
+PASS  Chart/data CSV sorted by population, largest first
+PASS  Data CSV column population matches independent recompute  max diff 0
+PASS  Data CSV column D22 matches independent recompute  max diff 0
+PASS  Data CSV column ballots22 matches independent recompute  max diff 0
+PASS  Data CSV column demreg22 matches independent recompute  max diff 0
+PASS  Data CSV column totreg22 matches independent recompute  max diff 0
+PASS  Data CSV column D26 matches independent recompute  max diff 0
+PASS  Data CSV column ballots26 matches independent recompute  max diff 0
+PASS  Data CSV column demreg26 matches independent recompute  max diff 0
+PASS  Data CSV column totreg26 matches independent recompute  max diff 0
+PASS  Data CSV column D18 matches independent recompute  max diff 0
+PASS  Data CSV column ballots18 matches independent recompute  max diff 0
+PASS  Data CSV column S22 matches independent recompute  max diff 5e-05
+PASS  Data CSV column S26 matches independent recompute  max diff 4.9e-05
+PASS  Data CSV column R22 matches independent recompute  max diff 5e-05
+PASS  Data CSV column R26 matches independent recompute  max diff 5e-05
+PASS  Data CSV column G22 matches independent recompute  max diff 5e-05
+PASS  Data CSV column G26 matches independent recompute  max diff 4.9e-05
+PASS  Data CSV column dG matches independent recompute  max diff 5e-05
+PASS  Data CSV column residual matches independent recompute  max diff 5e-05
+PASS  Data CSV column residual_votes matches independent recompute  max diff 5e-05
+PASS  Data CSV column dG_1822 matches independent recompute  max diff 4.9e-05
+PASS  Data CSV column residual_1822 matches independent recompute  max diff 5e-05
+PASS  Text: "Johnson is the lowest of the six" (largest counties, by ΔG)
+PASS  Text: "Lyon and Sioux are on both lists" (floor by registration and lowest ΔG)
+PASS  Text: Graphs captions name Crawford highest and Lyon lowest ΔG
+PASS  Text: Dubuque "Registration fell? Yes"
+PASS  Text: "no Iowa county has a negative ΔG"
+PASS  Text: residual step identity residual = S26 - S22 in all 99
+PASS  Chart annotations (summary.json) n_ceiling_gt15 = independent value  88 vs 88
+PASS  Chart annotations (summary.json) n_flip = independent value  18 vs 18
+PASS  Chart annotations (summary.json) top5 = independent value  ['Crawford', 'Chickasaw', 'Davis', 'Buena Vista', 'Wayne'] vs ['Crawford', 'Chickasaw', 'Davis', 'Buena Vista', 'Wayne']
+PASS  Chart annotations (summary.json) floor4 = independent value  ['Sioux', 'Lyon', 'Osceola', "O'Brien"] vs ['Sioux', 'Lyon', 'Osceola', "O'Brien"]
+PASS  Chart annotations (summary.json) uncertified = independent value  ['Van Buren'] vs ['Van Buren']
+PASS  Chart annotations (summary.json) ballots_fell_D_rose = independent value  ['Kossuth', 'Chickasaw', 'Calhoun', 'Humboldt', 'Davis', 'Pocahontas', 'Wayne', 'Taylor', 'Adams'] vs ['Kossuth', 'Chickasaw', 'Calhoun', 'Humboldt', 'Davis', 'Pocahontas', 'Wayne', 'Taylor', 'Adams']
+PASS  Chart annotations (summary.json) dG/residual/residual_1822 median
+PASS  Chart annotations (summary.json) dG/residual/residual_1822 sd
+PASS  Chart annotations (summary.json) dG/residual/residual_1822 within3
+PASS  Chart annotations: Brown-Forsythe p
+PASS  [Home] n:certified (N) = 98
+PASS  [Home] n:counties (N) = 99
+PASS  [Home] L:uncertified (L) = Van Buren
+PASS  [Home] n:counties (N) = 99
+PASS  [Home] n:counties (N) = 99
+PASS  [Home] n:counties (N) = 99
+PASS  [Home] g:all:demreg22 (I) = 701,861
+PASS  [Home] g:all:demreg26 (I) = 626,861
+PASS  [Home] g:all:demreg_change (SI) = −75,000
+PASS  [Home] g:all:demreg_pct_change (SP1) = −10.7%
+PASS  [Home] g:all:D22 (I) = 482,950
+PASS  [Home] g:all:D26 (I) = 759,570
+PASS  [Home] g:all:D_change (SI) = +276,620
+PASS  [Home] g:all:D_gain_pct (SP1) = +57.3%
+PASS  [Home] g:all:ballots22 (I) = 1,230,416
+PASS  [Home] g:all:ballots26 (I) = 1,382,511
+PASS  [Home] g:all:ballots_change (SI) = +152,095
+PASS  [Home] g:all:ballots_change_pct (SP1) = +12.4%
+PASS  [Home] g:all:S22 (P2) = 39.25%
+PASS  [Home] g:all:S26 (P2) = 54.94%
+PASS  [Home] g:all:residual (SF2) = +15.69
+PASS  [Home] g:all:R22 (P2) = 31.41%
+PASS  [Home] g:all:R26 (P2) = 28.76%
+PASS  [Home] g:all:reg_share_change (SF2) = −2.65
+PASS  [Home] g:all:G22 (SF2) = +7.84
+PASS  [Home] g:all:G26 (SF2) = +26.18
+PASS  [Home] g:all:dG (SF2) = +18.34
+PASS  [Home] st:dG:pos (N) = 99
+PASS  [Home] st:dG:median (SF2) = +19.35
+PASS  [Home] st:dG:median (SF1) = +19.4
+PASS  [Home] st:dG:min (SF2) = +10.86
+PASS  [Home] L:bottom_dG (L) = Lyon
+PASS  [Home] st:dG:max (SF2) = +26.73
+PASS  [Home] L:top_dG (L) = Crawford
+PASS  [Home] st:dG:within3 (N) = 71
+PASS  [Home] n:counties (N) = 99
+PASS  [Home] st:residual:median (SF2) = +16.40
+PASS  [Home] st:residual:pos (N) = 99
+PASS  [Home] st:residual:within3 (N) = 83
+PASS  [Home] n:counties (N) = 99
+PASS  [Home] g:all:residual_votes_sum (I) = 210,134
+PASS  [Home] n:counties (N) = 99
+PASS  [Home] g:all:gain_over_2022_share (I) = 216,921
+PASS  [Home] n:ceiling_gt15 (N) = 88
+PASS  [Home] n:counties (N) = 99
+PASS  [Home] L:top5 (L) = Crawford, Chickasaw, Davis, Buena Vista, Wayne
+PASS  [Home] L:floor4 (L) = Sioux, Lyon, Osceola, O'Brien
+PASS  [Home] st:residual_1822:sd (F2) = 2.52
+PASS  [Home] st:residual:sd (F2) = 2.47
+PASS  [Home] n:bf_p_residual (F2) = 0.62
+PASS  [Home] st:dG_1822:neg (N) = 99
+PASS  [Home] st:dG_1822:median (SF2) = −8.59
+PASS  [Reverse-Math] n:certified (N) = 98
+PASS  [Reverse-Math] n:counties (N) = 99
+PASS  [Reverse-Math] L:uncertified (L) = Van Buren
+PASS  [Reverse-Math] c:Dubuque:S22 (P2) = 40.25%
+PASS  [Reverse-Math] c:Dubuque:S26 (P2) = 56.00%
+PASS  [Reverse-Math] c:Dubuque:residual (SF2) = +15.75
+PASS  [Reverse-Math] c:Dubuque:R22 (P2) = 38.16%
+PASS  [Reverse-Math] c:Dubuque:R26 (P2) = 34.06%
+PASS  [Reverse-Math] c:Dubuque:reg_share_change (SF2) = −4.10
+PASS  [Reverse-Math] c:Dubuque:residual (F2) = 15.75
+PASS  [Reverse-Math] c:Dubuque:reg_share_change (F2) = −4.10
+PASS  [Reverse-Math] c:Dubuque:dG (SF2) = +19.85
+PASS  [Reverse-Math] c:Dubuque:dG (F2) = 19.85
+PASS  [Reverse-Math] c:Dubuque:reg_share_loss (F2) = 4.10
+PASS  [Reverse-Math] c:Dubuque:residual (F2) = 15.75
+PASS  [Reverse-Math] c:Dubuque:D26 (I) = 24,679
+PASS  [Reverse-Math] c:Dubuque:S22 (P2) = 40.25%
+PASS  [Reverse-Math] c:Dubuque:ballots26 (I) = 44,072
+PASS  [Reverse-Math] c:Dubuque:residual_votes (SI) = +6,940
+PASS  [Reverse-Math] c:Dubuque:D26 (I) = 24,679
+PASS  [Reverse-Math] c:Dubuque:D22 (I) = 15,774
+PASS  [Reverse-Math] c:Dubuque:demreg26 (I) = 23,494
+PASS  [Reverse-Math] c:Dubuque:demreg22 (I) = 27,207
+PASS  [Reverse-Math] c:Dubuque:gap_votes (SI) = +11,058
+PASS  [Reverse-Math] c:Polk:population (I) = 516,546
+PASS  [Reverse-Math] c:Polk:demreg22 (I) = 137,412
+PASS  [Reverse-Math] c:Polk:demreg26 (I) = 130,118
+PASS  [Reverse-Math] c:Polk:D22 (I) = 100,312
+PASS  [Reverse-Math] c:Polk:D26 (I) = 148,009
+PASS  [Reverse-Math] c:Polk:ballots22 (I) = 192,318
+PASS  [Reverse-Math] c:Polk:ballots26 (I) = 224,418
+PASS  [Reverse-Math] c:Polk:residual (SF2) = +13.79
+PASS  [Reverse-Math] c:Polk:reg_share_change (SF2) = −2.65
+PASS  [Reverse-Math] c:Polk:dG (SF2) = +16.45
+PASS  [Reverse-Math] c:Polk:residual_votes (SI) = +30,954
+PASS  [Reverse-Math] c:Linn:population (I) = 232,028
+PASS  [Reverse-Math] c:Linn:demreg22 (I) = 61,472
+PASS  [Reverse-Math] c:Linn:demreg26 (I) = 57,064
+PASS  [Reverse-Math] c:Linn:D22 (I) = 47,539
+PASS  [Reverse-Math] c:Linn:D26 (I) = 70,131
+PASS  [Reverse-Math] c:Linn:ballots22 (I) = 94,129
+PASS  [Reverse-Math] c:Linn:ballots26 (I) = 107,512
+PASS  [Reverse-Math] c:Linn:residual (SF2) = +14.73
+PASS  [Reverse-Math] c:Linn:reg_share_change (SF2) = −2.38
+PASS  [Reverse-Math] c:Linn:dG (SF2) = +17.11
+PASS  [Reverse-Math] c:Linn:residual_votes (SI) = +15,833
+PASS  [Reverse-Math] c:Scott:population (I) = 175,259
+PASS  [Reverse-Math] c:Scott:demreg22 (I) = 43,092
+PASS  [Reverse-Math] c:Scott:demreg26 (I) = 38,408
+PASS  [Reverse-Math] c:Scott:D22 (I) = 27,530
+PASS  [Reverse-Math] c:Scott:D26 (I) = 42,971
+PASS  [Reverse-Math] c:Scott:ballots22 (I) = 64,012
+PASS  [Reverse-Math] c:Scott:ballots26 (I) = 74,108
+PASS  [Reverse-Math] c:Scott:residual (SF2) = +14.98
+PASS  [Reverse-Math] c:Scott:reg_share_change (SF2) = −1.88
+PASS  [Reverse-Math] c:Scott:dG (SF2) = +16.85
+PASS  [Reverse-Math] c:Scott:residual_votes (SI) = +11,099
+PASS  [Reverse-Math] c:Johnson:population (I) = 160,044
+PASS  [Reverse-Math] c:Johnson:demreg22 (I) = 56,723
+PASS  [Reverse-Math] c:Johnson:demreg26 (I) = 55,846
+PASS  [Reverse-Math] c:Johnson:D22 (I) = 43,686
+PASS  [Reverse-Math] c:Johnson:D26 (I) = 60,766
+PASS  [Reverse-Math] c:Johnson:ballots22 (I) = 64,023
+PASS  [Reverse-Math] c:Johnson:ballots26 (I) = 77,575
+PASS  [Reverse-Math] c:Johnson:residual (SF2) = +10.10
+PASS  [Reverse-Math] c:Johnson:reg_share_change (SF2) = −2.29
+PASS  [Reverse-Math] c:Johnson:dG (SF2) = +12.39
+PASS  [Reverse-Math] c:Johnson:residual_votes (SI) = +7,833
+PASS  [Reverse-Math] c:Black Hawk:population (I) = 131,532
+PASS  [Reverse-Math] c:Black Hawk:demreg22 (I) = 33,374
+PASS  [Reverse-Math] c:Black Hawk:demreg26 (I) = 29,172
+PASS  [Reverse-Math] c:Black Hawk:D22 (I) = 21,585
+PASS  [Reverse-Math] c:Black Hawk:D26 (I) = 33,464
+PASS  [Reverse-Math] c:Black Hawk:ballots22 (I) = 47,514
+PASS  [Reverse-Math] c:Black Hawk:ballots26 (I) = 53,181
+PASS  [Reverse-Math] c:Black Hawk:residual (SF2) = +17.50
+PASS  [Reverse-Math] c:Black Hawk:reg_share_change (SF2) = −2.66
+PASS  [Reverse-Math] c:Black Hawk:dG (SF2) = +20.16
+PASS  [Reverse-Math] c:Black Hawk:residual_votes (SI) = +9,305
+PASS  [Reverse-Math] c:Dallas:population (I) = 118,457
+PASS  [Reverse-Math] c:Dallas:demreg22 (I) = 20,828
+PASS  [Reverse-Math] c:Dallas:demreg26 (I) = 22,753
+PASS  [Reverse-Math] c:Dallas:D22 (I) = 19,272
+PASS  [Reverse-Math] c:Dallas:D26 (I) = 33,305
+PASS  [Reverse-Math] c:Dallas:ballots22 (I) = 44,867
+PASS  [Reverse-Math] c:Dallas:ballots26 (I) = 56,324
+PASS  [Reverse-Math] c:Dallas:residual (SF2) = +16.18
+PASS  [Reverse-Math] c:Dallas:reg_share_change (SF2) = −0.91
+PASS  [Reverse-Math] c:Dallas:dG (SF2) = +17.09
+PASS  [Reverse-Math] c:Dallas:residual_votes (SI) = +9,112
+PASS  [Reverse-Math] gd:six:dG:min (SF2) = +12.39
+PASS  [Reverse-Math] gd:six:dG:max (SF2) = +20.16
+PASS  [Reverse-Math] n:six_below_median (N) = 5
+PASS  [Reverse-Math] st:dG:median (SF2) = +19.35
+PASS  [Reverse-Math] c:Dallas:demreg22 (I) = 20,828
+PASS  [Reverse-Math] c:Dallas:demreg26 (I) = 22,753
+PASS  [Reverse-Math] c:Dallas:reg_share_change (SF2) = −0.91
+PASS  [Reverse-Math] n:counties (N) = 99
+PASS  [Reverse-Math] g:six:n (N) = 6
+PASS  [Reverse-Math] g:six:S22 (P2) = 51.28%
+PASS  [Reverse-Math] g:six:S26 (P2) = 65.53%
+PASS  [Reverse-Math] g:six:R22 (P2) = 39.11%
+PASS  [Reverse-Math] g:six:R26 (P2) = 36.82%
+PASS  [Reverse-Math] g:six:residual (SF2) = +14.24
+PASS  [Reverse-Math] g:six:reg_share_change (SF2) = −2.29
+PASS  [Reverse-Math] g:six:dG (SF2) = +16.53
+PASS  [Reverse-Math] gd:six:dG:median (SF2) = +16.97
+PASS  [Reverse-Math] gd:six:dG:min (SF2) = +12.39
+PASS  [Reverse-Math] gd:six:dG:max (SF2) = +20.16
+PASS  [Reverse-Math] g:six:residual_votes_sum (SI) = +84,135
+PASS  [Reverse-Math] g:other93:n (N) = 93
+PASS  [Reverse-Math] g:other93:S22 (P2) = 30.82%
+PASS  [Reverse-Math] g:other93:S26 (P2) = 46.99%
+PASS  [Reverse-Math] g:other93:R22 (P2) = 26.19%
+PASS  [Reverse-Math] g:other93:R26 (P2) = 23.03%
+PASS  [Reverse-Math] g:other93:residual (SF2) = +16.16
+PASS  [Reverse-Math] g:other93:reg_share_change (SF2) = −3.16
+PASS  [Reverse-Math] g:other93:dG (SF2) = +19.32
+PASS  [Reverse-Math] gd:other93:dG:median (SF2) = +19.54
+PASS  [Reverse-Math] gd:other93:dG:min (SF2) = +10.86
+PASS  [Reverse-Math] gd:other93:dG:max (SF2) = +26.73
+PASS  [Reverse-Math] g:other93:residual_votes_sum (SI) = +125,999
+PASS  [Reverse-Math] g:all:n (N) = 99
+PASS  [Reverse-Math] g:all:S22 (P2) = 39.25%
+PASS  [Reverse-Math] g:all:S26 (P2) = 54.94%
+PASS  [Reverse-Math] g:all:R22 (P2) = 31.41%
+PASS  [Reverse-Math] g:all:R26 (P2) = 28.76%
+PASS  [Reverse-Math] g:all:residual (SF2) = +15.69
+PASS  [Reverse-Math] g:all:reg_share_change (SF2) = −2.65
+PASS  [Reverse-Math] g:all:dG (SF2) = +18.34
+PASS  [Reverse-Math] gd:all:dG:median (SF2) = +19.35
+PASS  [Reverse-Math] gd:all:dG:min (SF2) = +10.86
+PASS  [Reverse-Math] gd:all:dG:max (SF2) = +26.73
+PASS  [Reverse-Math] g:all:residual_votes_sum (SI) = +210,134
+PASS  [Reverse-Math] st:dG:pos (N) = 99
+PASS  [Reverse-Math] g:six:dG (SF2) = +16.53
+PASS  [Reverse-Math] g:other93:dG (SF2) = +19.32
+PASS  [Reverse-Math] n:r2_dG_log10pop (F3) = 0.018
+PASS  [Reverse-Math] n:counties (N) = 99
+PASS  [Reverse-Math] g:all:residual_votes_sum (I) = 210,134
+PASS  [Reverse-Math] g:all:S26 (P2) = 54.94%
+PASS  [Reverse-Math] g:all:S22 (P2) = 39.25%
+PASS  [Reverse-Math] g:all:ballots26 (I) = 1,382,511
+PASS  [Reverse-Math] g:all:gain_over_2022_share (I) = 216,921
+PASS  [Reverse-Math] g:all:D_change (SI) = +276,620
+PASS  [Reverse-Math] g:all:gain_over_2022_share (I) = 216,921
+PASS  [Reverse-Math] g:all:turnout_part (I) = 59,699
+PASS  [Reverse-Math] g:all:reg_share_loss (F2) = 2.65
+PASS  [Reverse-Math] g:all:offset_flips_0 (I) = 36,573
+PASS  [Reverse-Math] g:all:offset_additions_0 (I) = 76,666
+PASS  [Reverse-Math] g:all:offset_flips_1 (I) = 50,398
+PASS  [Reverse-Math] g:all:offset_additions_1 (I) = 103,478
+PASS  [Reverse-Math] g:all:offset_flips_2 (I) = 64,223
+PASS  [Reverse-Math] g:all:offset_additions_2 (I) = 129,211
+PASS  [Reverse-Math] g:all:gain_over_2022_share (I) = 216,921
+PASS  [Reverse-Math] g:all:ratio_low (F2) = 1.68
+PASS  [Reverse-Math] g:all:ratio_high (F2) = 5.93
+PASS  [Reverse-Math] st:residual_1822:sd (F2) = 2.52
+PASS  [Reverse-Math] st:residual:sd (F2) = 2.47
+PASS  [Reverse-Math] n:bf_p_residual (F2) = 0.62
+PASS  [Reverse-Math] st:dG_1822:neg (N) = 99
+PASS  [Reverse-Math] st:residual:within3 (N) = 83
+PASS  [Reverse-Math] n:counties (N) = 99
+PASS  [Reverse-Math] st:residual:median (SF2) = +16.40
+PASS  [Reverse-Math] n:counties (N) = 99
+PASS  [Locked-Iowa-Formula] n:certified (N) = 98
+PASS  [Locked-Iowa-Formula] n:counties (N) = 99
+PASS  [Locked-Iowa-Formula] L:uncertified (L) = Van Buren
+PASS  [Locked-Iowa-Formula] n:gov22_eq_ballots (N) = 99
+PASS  [Locked-Iowa-Formula] n:counties (N) = 99
+PASS  [Locked-Iowa-Formula] n:gv_vs_ballots_mean_diff (F2) = 0.23
+PASS  [Locked-Iowa-Formula] n:demreg_fell (N) = 98
+PASS  [Locked-Iowa-Formula] n:counties (N) = 99
+PASS  [Locked-Iowa-Formula] L:nonloss (L) = Dallas
+PASS  [Locked-Iowa-Formula] c:Dallas:demreg22 (I) = 20,828
+PASS  [Locked-Iowa-Formula] c:Dallas:demreg26 (I) = 22,753
+PASS  [Locked-Iowa-Formula] c:Dallas:reg_share_change (SF2) = −0.91
+PASS  [Locked-Iowa-Formula] g:all:dG (SF2) = +18.34
+PASS  [Locked-Iowa-Formula] st:dG:median (SF2) = +19.35
+PASS  [Locked-Iowa-Formula] L:top_dG (L) = Crawford
+PASS  [Locked-Iowa-Formula] c:Crawford:dG (SF2) = +26.73
+PASS  [Locked-Iowa-Formula] L:bottom_dG (L) = Lyon
+PASS  [Locked-Iowa-Formula] c:Lyon:dG (SF2) = +10.86
+PASS  [Locked-Iowa-Formula] L:top5 (L) = Crawford, Chickasaw, Davis, Buena Vista, Wayne
+PASS  [Locked-Iowa-Formula] L:floor4 (L) = Sioux, Lyon, Osceola, O'Brien
+PASS  [Locked-Iowa-Formula] L:nonloss (L) = Dallas
+PASS  [Locked-Iowa-Formula] c:Dubuque:D22 (I) = 15,774
+PASS  [Locked-Iowa-Formula] c:Dubuque:D26 (I) = 24,679
+PASS  [Locked-Iowa-Formula] c:Dubuque:ballots22 (I) = 39,191
+PASS  [Locked-Iowa-Formula] c:Dubuque:ballots26 (I) = 44,072
+PASS  [Locked-Iowa-Formula] c:Dubuque:S22 (F2) = 40.25
+PASS  [Locked-Iowa-Formula] c:Dubuque:S26 (F2) = 56.00
+PASS  [Locked-Iowa-Formula] c:Dubuque:demreg22 (I) = 27,207
+PASS  [Locked-Iowa-Formula] c:Dubuque:demreg26 (I) = 23,494
+PASS  [Locked-Iowa-Formula] c:Dubuque:totreg22 (I) = 71,290
+PASS  [Locked-Iowa-Formula] c:Dubuque:totreg26 (I) = 68,970
+PASS  [Locked-Iowa-Formula] c:Dubuque:R22 (F2) = 38.16
+PASS  [Locked-Iowa-Formula] c:Dubuque:R26 (F2) = 34.06
+PASS  [Locked-Iowa-Formula] c:Dubuque:G22 (SF2) = +2.09
+PASS  [Locked-Iowa-Formula] c:Dubuque:G26 (SF2) = +21.93
+PASS  [Locked-Iowa-Formula] c:Dubuque:dG (SF2) = +19.85
+PASS  [Locked-Iowa-Formula] c:Dubuque:reg_share_change (SF2) = −4.10
+PASS  [Locked-Iowa-Formula] c:Dubuque:residual (F2) = 15.75
+PASS  [Locked-Iowa-Formula] c:Dubuque:residual_votes (SI) = +6,940
+PASS  [Locked-Iowa-Formula] c:Dubuque:gap_votes (SI) = +11,058
+PASS  [Floor-and-Ceiling] n:certified (N) = 98
+PASS  [Floor-and-Ceiling] n:counties (N) = 99
+PASS  [Floor-and-Ceiling] L:uncertified (L) = Van Buren
+PASS  [Floor-and-Ceiling] L:top5 (L) = Crawford, Chickasaw, Davis, Buena Vista, Wayne
+PASS  [Floor-and-Ceiling] L:bottom_dG (L) = Lyon
+PASS  [Floor-and-Ceiling] c:Lyon:dG (SF2) = +10.86
+PASS  [Floor-and-Ceiling] L:top_dG (L) = Crawford
+PASS  [Floor-and-Ceiling] c:Crawford:dG (SF2) = +26.73
+PASS  [Floor-and-Ceiling] L:top5 (L) = Crawford, Chickasaw, Davis, Buena Vista, Wayne
+PASS  [Floor-and-Ceiling] c:Crawford:dG (SF2) = +26.73
+PASS  [Floor-and-Ceiling] c:Chickasaw:dG (SF2) = +24.29
+PASS  [Floor-and-Ceiling] c:Davis:dG (SF2) = +24.26
+PASS  [Floor-and-Ceiling] c:Buena Vista:dG (SF2) = +23.84
+PASS  [Floor-and-Ceiling] c:Wayne:dG (SF2) = +23.30
+PASS  [Floor-and-Ceiling] c:Sioux:R22 (P1) = 9.1%
+PASS  [Floor-and-Ceiling] c:Sioux:dG (SF2) = +13.68
+PASS  [Floor-and-Ceiling] c:Lyon:R22 (P1) = 9.5%
+PASS  [Floor-and-Ceiling] c:Lyon:dG (SF2) = +10.86
+PASS  [Floor-and-Ceiling] c:Osceola:R22 (P1) = 10.6%
+PASS  [Floor-and-Ceiling] c:Osceola:dG (SF2) = +15.56
+PASS  [Floor-and-Ceiling] c:O'Brien:R22 (P1) = 13.6%
+PASS  [Floor-and-Ceiling] c:O'Brien:dG (SF2) = +16.27
+PASS  [Floor-and-Ceiling] L:lowest5_dG (L) = Lyon, Johnson, Hancock, Cerro Gordo, Sioux
+PASS  [Floor-and-Ceiling] c:Dallas:demreg22 (I) = 20,828
+PASS  [Floor-and-Ceiling] c:Dallas:demreg26 (I) = 22,753
+PASS  [Floor-and-Ceiling] c:Dallas:D22 (I) = 19,272
+PASS  [Floor-and-Ceiling] c:Dallas:D26 (I) = 33,305
+PASS  [Floor-and-Ceiling] n:D_rose (N) = 99
+PASS  [Floor-and-Ceiling] n:ballots_fell_D_rose (N) = 9
+PASS  [Floor-and-Ceiling] L:ballots_fell_D_rose (L) = Kossuth, Chickasaw, Calhoun, Humboldt, Davis, Pocahontas, Wayne, Taylor, Adams
+PASS  [Floor-and-Ceiling] n:ceiling_gt15 (N) = 88
+PASS  [Floor-and-Ceiling] n:counties (N) = 99
+PASS  [Floor-and-Ceiling] n:jump14_regfell (N) = 83
+PASS  [Floor-and-Ceiling] st:dG:median (SF2) = +19.35
+PASS  [Floor-and-Ceiling] n:not_gt15 (N) = 11
+PASS  [Floor-and-Ceiling] L:not_gt15 (L) = Johnson, Cerro Gordo, Sioux, Washington, Jefferson, Mills, Cass, Lyon, Hancock, Winnebago, Worth
+PASS  [Floor-and-Ceiling] n:gv_ceiling_gt15 (N) = 91
+PASS  [Floor-and-Ceiling] L:gv_top5 (L) = Crawford, Davis, Chickasaw, Buena Vista, Jackson
+PASS  [Floor-and-Ceiling] c:Sioux:population (I) = 36,774
+PASS  [Floor-and-Ceiling] c:Sioux:G22 (SF2) = −0.14
+PASS  [Floor-and-Ceiling] c:Sioux:G26 (SF2) = +13.54
+PASS  [Floor-and-Ceiling] c:Sioux:dG (SF2) = +13.68
+PASS  [Floor-and-Ceiling] c:Sioux:R22 (P1) = 9.1%
+PASS  [Floor-and-Ceiling] c:Sioux:R26 (P1) = 6.4%
+PASS  [Floor-and-Ceiling] c:Sioux:demreg22 (I) = 2,124
+PASS  [Floor-and-Ceiling] c:Sioux:demreg26 (I) = 1,515
+PASS  [Floor-and-Ceiling] c:Sioux:demreg_pct_change (SP1) = −28.7%
+PASS  [Floor-and-Ceiling] c:Sioux:D22 (I) = 1,280
+PASS  [Floor-and-Ceiling] c:Sioux:D26 (I) = 3,096
+PASS  [Floor-and-Ceiling] c:Sioux:residual_votes (SI) = +1,704
+PASS  [Floor-and-Ceiling] c:Buena Vista:population (I) = 20,449
+PASS  [Floor-and-Ceiling] c:Buena Vista:G22 (SF2) = −1.52
+PASS  [Floor-and-Ceiling] c:Buena Vista:G26 (SF2) = +22.33
+PASS  [Floor-and-Ceiling] c:Buena Vista:dG (SF2) = +23.84
+PASS  [Floor-and-Ceiling] c:Buena Vista:R22 (P1) = 26.6%
+PASS  [Floor-and-Ceiling] c:Buena Vista:R26 (P1) = 25.1%
+PASS  [Floor-and-Ceiling] c:Buena Vista:demreg22 (I) = 3,249
+PASS  [Floor-and-Ceiling] c:Buena Vista:demreg26 (I) = 2,715
+PASS  [Floor-and-Ceiling] c:Buena Vista:demreg_pct_change (SP1) = −16.4%
+PASS  [Floor-and-Ceiling] c:Buena Vista:D22 (I) = 1,299
+PASS  [Floor-and-Ceiling] c:Buena Vista:D26 (I) = 2,916
+PASS  [Floor-and-Ceiling] c:Buena Vista:residual_votes (SI) = +1,377
+PASS  [Floor-and-Ceiling] c:Crawford:population (I) = 16,237
+PASS  [Floor-and-Ceiling] c:Crawford:G22 (SF2) = −5.10
+PASS  [Floor-and-Ceiling] c:Crawford:G26 (SF2) = +21.63
+PASS  [Floor-and-Ceiling] c:Crawford:dG (SF2) = +26.73
+PASS  [Floor-and-Ceiling] c:Crawford:R22 (P1) = 24.4%
+PASS  [Floor-and-Ceiling] c:Crawford:R26 (P1) = 21.1%
+PASS  [Floor-and-Ceiling] c:Crawford:demreg22 (I) = 2,467
+PASS  [Floor-and-Ceiling] c:Crawford:demreg26 (I) = 1,889
+PASS  [Floor-and-Ceiling] c:Crawford:demreg_pct_change (SP1) = −23.4%
+PASS  [Floor-and-Ceiling] c:Crawford:D22 (I) = 876
+PASS  [Floor-and-Ceiling] c:Crawford:D26 (I) = 2,185
+PASS  [Floor-and-Ceiling] c:Crawford:residual_votes (SI) = +1,196
+PASS  [Floor-and-Ceiling] c:O'Brien:population (I) = 14,220
+PASS  [Floor-and-Ceiling] c:O'Brien:G22 (SF2) = +0.70
+PASS  [Floor-and-Ceiling] c:O'Brien:G26 (SF2) = +16.96
+PASS  [Floor-and-Ceiling] c:O'Brien:dG (SF2) = +16.27
+PASS  [Floor-and-Ceiling] c:O'Brien:R22 (P1) = 13.6%
+PASS  [Floor-and-Ceiling] c:O'Brien:R26 (P1) = 11.9%
+PASS  [Floor-and-Ceiling] c:O'Brien:demreg22 (I) = 1,327
+PASS  [Floor-and-Ceiling] c:O'Brien:demreg26 (I) = 1,099
+PASS  [Floor-and-Ceiling] c:O'Brien:demreg_pct_change (SP1) = −17.2%
+PASS  [Floor-and-Ceiling] c:O'Brien:D22 (I) = 776
+PASS  [Floor-and-Ceiling] c:O'Brien:D26 (I) = 1,639
+PASS  [Floor-and-Ceiling] c:O'Brien:residual_votes (SI) = +828
+PASS  [Floor-and-Ceiling] c:Lyon:population (I) = 12,354
+PASS  [Floor-and-Ceiling] c:Lyon:G22 (SF2) = +1.12
+PASS  [Floor-and-Ceiling] c:Lyon:G26 (SF2) = +11.98
+PASS  [Floor-and-Ceiling] c:Lyon:dG (SF2) = +10.86
+PASS  [Floor-and-Ceiling] c:Lyon:R22 (P1) = 9.5%
+PASS  [Floor-and-Ceiling] c:Lyon:R26 (P1) = 7.8%
+PASS  [Floor-and-Ceiling] c:Lyon:demreg22 (I) = 824
+PASS  [Floor-and-Ceiling] c:Lyon:demreg26 (I) = 674
+PASS  [Floor-and-Ceiling] c:Lyon:demreg_pct_change (SP1) = −18.2%
+PASS  [Floor-and-Ceiling] c:Lyon:D22 (I) = 534
+PASS  [Floor-and-Ceiling] c:Lyon:D26 (I) = 1,087
+PASS  [Floor-and-Ceiling] c:Lyon:residual_votes (SI) = +504
+PASS  [Floor-and-Ceiling] c:Chickasaw:population (I) = 11,663
+PASS  [Floor-and-Ceiling] c:Chickasaw:G22 (SF2) = −1.25
+PASS  [Floor-and-Ceiling] c:Chickasaw:G26 (SF2) = +23.04
+PASS  [Floor-and-Ceiling] c:Chickasaw:dG (SF2) = +24.29
+PASS  [Floor-and-Ceiling] c:Chickasaw:R22 (P1) = 26.9%
+PASS  [Floor-and-Ceiling] c:Chickasaw:R26 (P1) = 22.6%
+PASS  [Floor-and-Ceiling] c:Chickasaw:demreg22 (I) = 2,234
+PASS  [Floor-and-Ceiling] c:Chickasaw:demreg26 (I) = 1,731
+PASS  [Floor-and-Ceiling] c:Chickasaw:demreg_pct_change (SP1) = −22.5%
+PASS  [Floor-and-Ceiling] c:Chickasaw:D22 (I) = 1,292
+PASS  [Floor-and-Ceiling] c:Chickasaw:D26 (I) = 2,277
+PASS  [Floor-and-Ceiling] c:Chickasaw:residual_votes (SI) = +996
+PASS  [Floor-and-Ceiling] c:Davis:population (I) = 9,230
+PASS  [Floor-and-Ceiling] c:Davis:G22 (SF2) = −5.26
+PASS  [Floor-and-Ceiling] c:Davis:G26 (SF2) = +19.00
+PASS  [Floor-and-Ceiling] c:Davis:dG (SF2) = +24.26
+PASS  [Floor-and-Ceiling] c:Davis:R22 (P1) = 25.7%
+PASS  [Floor-and-Ceiling] c:Davis:R26 (P1) = 18.7%
+PASS  [Floor-and-Ceiling] c:Davis:demreg22 (I) = 1,326
+PASS  [Floor-and-Ceiling] c:Davis:demreg26 (I) = 907
+PASS  [Floor-and-Ceiling] c:Davis:demreg_pct_change (SP1) = −31.6%
+PASS  [Floor-and-Ceiling] c:Davis:D22 (I) = 626
+PASS  [Floor-and-Ceiling] c:Davis:D26 (I) = 1,146
+PASS  [Floor-and-Ceiling] c:Davis:residual_votes (SI) = +524
+PASS  [Floor-and-Ceiling] c:Wayne:population (I) = 6,738
+PASS  [Floor-and-Ceiling] c:Wayne:G22 (SF2) = −2.48
+PASS  [Floor-and-Ceiling] c:Wayne:G26 (SF2) = +20.82
+PASS  [Floor-and-Ceiling] c:Wayne:dG (SF2) = +23.30
+PASS  [Floor-and-Ceiling] c:Wayne:R22 (P1) = 19.3%
+PASS  [Floor-and-Ceiling] c:Wayne:R26 (P1) = 15.7%
+PASS  [Floor-and-Ceiling] c:Wayne:demreg22 (I) = 755
+PASS  [Floor-and-Ceiling] c:Wayne:demreg26 (I) = 594
+PASS  [Floor-and-Ceiling] c:Wayne:demreg_pct_change (SP1) = −21.3%
+PASS  [Floor-and-Ceiling] c:Wayne:D22 (I) = 406
+PASS  [Floor-and-Ceiling] c:Wayne:D26 (I) = 845
+PASS  [Floor-and-Ceiling] c:Wayne:residual_votes (SI) = +455
+PASS  [Floor-and-Ceiling] c:Osceola:population (I) = 5,980
+PASS  [Floor-and-Ceiling] c:Osceola:G22 (SF2) = −0.09
+PASS  [Floor-and-Ceiling] c:Osceola:G26 (SF2) = +15.47
+PASS  [Floor-and-Ceiling] c:Osceola:dG (SF2) = +15.56
+PASS  [Floor-and-Ceiling] c:Osceola:R22 (P1) = 10.6%
+PASS  [Floor-and-Ceiling] c:Osceola:R26 (P1) = 9.8%
+PASS  [Floor-and-Ceiling] c:Osceola:demreg22 (I) = 449
+PASS  [Floor-and-Ceiling] c:Osceola:demreg26 (I) = 392
+PASS  [Floor-and-Ceiling] c:Osceola:demreg_pct_change (SP1) = −12.7%
+PASS  [Floor-and-Ceiling] c:Osceola:D22 (I) = 245
+PASS  [Floor-and-Ceiling] c:Osceola:D26 (I) = 613
+PASS  [Floor-and-Ceiling] c:Osceola:residual_votes (SI) = +358
+PASS  [Floor-and-Ceiling] n:top5_flip (N) = 5
+PASS  [Floor-and-Ceiling] n:flip (N) = 18
+PASS  [Floor-and-Ceiling] n:G26_neg (N) = 0
+PASS  [Floor-and-Ceiling] n:top5_demreg_fell (N) = 5
+PASS  [Floor-and-Ceiling] n:top5_demreg_pct_min (SP1) = −16.4%
+PASS  [Floor-and-Ceiling] n:top5_demreg_pct_max (SP1) = −31.6%
+PASS  [Floor-and-Ceiling] n:floor4_below_median (N) = 4
+PASS  [Floor-and-Ceiling] st:dG:pos (N) = 99
+PASS  [Floor-and-Ceiling] n:counties (N) = 99
+PASS  [Floor-and-Ceiling] st:dG:median (SF1) = +19.4
+PASS  [Graphs] n:certified (N) = 98
+PASS  [Graphs] n:counties (N) = 99
+PASS  [Graphs] L:uncertified (L) = Van Buren
+PASS  [Home] page text = skeleton + verified claims (no unverified edits)
+PASS  [Home] no unverified numbers outside claims/allow-list  []
+PASS  [Reverse-Math] page text = skeleton + verified claims (no unverified edits)
+PASS  [Reverse-Math] no unverified numbers outside claims/allow-list  []
+PASS  [Reverse-Math] image exists in repo root: IA_Residual_Bars_by_Population.png
+PASS  [Locked-Iowa-Formula] page text = skeleton + verified claims (no unverified edits)
+PASS  [Locked-Iowa-Formula] no unverified numbers outside claims/allow-list  []
+PASS  [Floor-and-Ceiling] page text = skeleton + verified claims (no unverified edits)
+PASS  [Floor-and-Ceiling] no unverified numbers outside claims/allow-list  []
+PASS  [Floor-and-Ceiling] image exists in repo root: IA_DeltaG_by_Population.png
+PASS  [Floor-and-Ceiling] image exists in repo root: IA_Slope_G2022_to_G2026.png
+PASS  [Graphs] page text = skeleton + verified claims (no unverified edits)
+PASS  [Graphs] no unverified numbers outside claims/allow-list  []
+PASS  [Graphs] image exists in repo root: IA_Slope_G2022_to_G2026.png
+PASS  [Graphs] image exists in repo root: IA_DeltaG_by_Population.png
+PASS  [Graphs] image exists in repo root: IA_Stacked_Share_Reg_Loss_by_Population.png
+PASS  [Graphs] image exists in repo root: IA_Stacked_Share_Reg_Loss_by_2022_Dem_Share.png
+PASS  [Graphs] image exists in repo root: IA_Paired_Bars_Dem_Share_2022_2026.png
+PASS  [Graphs] image exists in repo root: IA_Residual_Bars_by_Population.png
+PASS  [Graphs] image exists in repo root: IA_Residual_Strip_2022_2026_vs_2018_2022_Control.png
+PASS  [Graphs] image exists in repo root: IA_DeltaG_vs_Population_Scatter.png
+PASS  Literal "99" in captions equals verified county count

@@ -1,0 +1,2914 @@
+[
+{
+"page": "Home",
+"key": "n:certified",
+"fmt": "N",
+"text": "98",
+"value": 98.0
+},
+{
+"page": "Home",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Home",
+"key": "L:uncertified",
+"fmt": "L",
+"text": "Van Buren",
+"value": "Van Buren"
+},
+{
+"page": "Home",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Home",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Home",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Home",
+"key": "g:all:demreg22",
+"fmt": "I",
+"text": "701,861",
+"value": 701861.0
+},
+{
+"page": "Home",
+"key": "g:all:demreg26",
+"fmt": "I",
+"text": "626,861",
+"value": 626861.0
+},
+{
+"page": "Home",
+"key": "g:all:demreg_change",
+"fmt": "SI",
+"text": "\u221275,000",
+"value": -75000.0
+},
+{
+"page": "Home",
+"key": "g:all:demreg_pct_change",
+"fmt": "SP1",
+"text": "\u221210.7%",
+"value": -10.685876548205414
+},
+{
+"page": "Home",
+"key": "g:all:D22",
+"fmt": "I",
+"text": "482,950",
+"value": 482950.0
+},
+{
+"page": "Home",
+"key": "g:all:D26",
+"fmt": "I",
+"text": "759,570",
+"value": 759570.0
+},
+{
+"page": "Home",
+"key": "g:all:D_change",
+"fmt": "SI",
+"text": "+276,620",
+"value": 276620.0
+},
+{
+"page": "Home",
+"key": "g:all:D_gain_pct",
+"fmt": "SP1",
+"text": "+57.3%",
+"value": 57.277150843772645
+},
+{
+"page": "Home",
+"key": "g:all:ballots22",
+"fmt": "I",
+"text": "1,230,416",
+"value": 1230416.0
+},
+{
+"page": "Home",
+"key": "g:all:ballots26",
+"fmt": "I",
+"text": "1,382,511",
+"value": 1382511.0
+},
+{
+"page": "Home",
+"key": "g:all:ballots_change",
+"fmt": "SI",
+"text": "+152,095",
+"value": 152095.0
+},
+{
+"page": "Home",
+"key": "g:all:ballots_change_pct",
+"fmt": "SP1",
+"text": "+12.4%",
+"value": 12.361266433466405
+},
+{
+"page": "Home",
+"key": "g:all:S22",
+"fmt": "P2",
+"text": "39.25%",
+"value": 39.25095252337421
+},
+{
+"page": "Home",
+"key": "g:all:S26",
+"fmt": "P2",
+"text": "54.94%",
+"value": 54.94133500565276
+},
+{
+"page": "Home",
+"key": "g:all:residual",
+"fmt": "SF2",
+"text": "+15.69",
+"value": 15.690382482278551
+},
+{
+"page": "Home",
+"key": "g:all:R22",
+"fmt": "P2",
+"text": "31.41%",
+"value": 31.40744870890716
+},
+{
+"page": "Home",
+"key": "g:all:R26",
+"fmt": "P2",
+"text": "28.76%",
+"value": 28.762044769538324
+},
+{
+"page": "Home",
+"key": "g:all:reg_share_change",
+"fmt": "SF2",
+"text": "\u22122.65",
+"value": -2.645403939368837
+},
+{
+"page": "Home",
+"key": "g:all:G22",
+"fmt": "SF2",
+"text": "+7.84",
+"value": 7.843503814467049
+},
+{
+"page": "Home",
+"key": "g:all:G26",
+"fmt": "SF2",
+"text": "+26.18",
+"value": 26.179290236114436
+},
+{
+"page": "Home",
+"key": "g:all:dG",
+"fmt": "SF2",
+"text": "+18.34",
+"value": 18.335786421647388
+},
+{
+"page": "Home",
+"key": "st:dG:pos",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Home",
+"key": "st:dG:median",
+"fmt": "SF2",
+"text": "+19.35",
+"value": 19.350931730158784
+},
+{
+"page": "Home",
+"key": "st:dG:median",
+"fmt": "SF1",
+"text": "+19.4",
+"value": 19.350931730158784
+},
+{
+"page": "Home",
+"key": "st:dG:min",
+"fmt": "SF2",
+"text": "+10.86",
+"value": 10.8592859190574
+},
+{
+"page": "Home",
+"key": "L:bottom_dG",
+"fmt": "L",
+"text": "Lyon",
+"value": "Lyon"
+},
+{
+"page": "Home",
+"key": "st:dG:max",
+"fmt": "SF2",
+"text": "+26.73",
+"value": 26.730720107877083
+},
+{
+"page": "Home",
+"key": "L:top_dG",
+"fmt": "L",
+"text": "Crawford",
+"value": "Crawford"
+},
+{
+"page": "Home",
+"key": "st:dG:within3",
+"fmt": "N",
+"text": "71",
+"value": 71.0
+},
+{
+"page": "Home",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Home",
+"key": "st:residual:median",
+"fmt": "SF2",
+"text": "+16.40",
+"value": 16.400124158447376
+},
+{
+"page": "Home",
+"key": "st:residual:pos",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Home",
+"key": "st:residual:within3",
+"fmt": "N",
+"text": "83",
+"value": 83.0
+},
+{
+"page": "Home",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Home",
+"key": "g:all:residual_votes_sum",
+"fmt": "I",
+"text": "210,134",
+"value": 210133.61779616785
+},
+{
+"page": "Home",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Home",
+"key": "g:all:gain_over_2022_share",
+"fmt": "I",
+"text": "216,921",
+"value": 216921.263759574
+},
+{
+"page": "Home",
+"key": "n:ceiling_gt15",
+"fmt": "N",
+"text": "88",
+"value": 88.0
+},
+{
+"page": "Home",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Home",
+"key": "L:top5",
+"fmt": "L",
+"text": "Crawford, Chickasaw, Davis, Buena Vista, Wayne",
+"value": "Crawford, Chickasaw, Davis, Buena Vista, Wayne"
+},
+{
+"page": "Home",
+"key": "L:floor4",
+"fmt": "L",
+"text": "Sioux, Lyon, Osceola, O'Brien",
+"value": "Sioux, Lyon, Osceola, O'Brien"
+},
+{
+"page": "Home",
+"key": "st:residual_1822:sd",
+"fmt": "F2",
+"text": "2.52",
+"value": 2.5195662577057067
+},
+{
+"page": "Home",
+"key": "st:residual:sd",
+"fmt": "F2",
+"text": "2.47",
+"value": 2.47138425086253
+},
+{
+"page": "Home",
+"key": "n:bf_p_residual",
+"fmt": "F2",
+"text": "0.62",
+"value": 0.6158375694075696
+},
+{
+"page": "Home",
+"key": "st:dG_1822:neg",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Home",
+"key": "st:dG_1822:median",
+"fmt": "SF2",
+"text": "\u22128.59",
+"value": -8.591944168364037
+},
+{
+"page": "Reverse-Math",
+"key": "n:certified",
+"fmt": "N",
+"text": "98",
+"value": 98.0
+},
+{
+"page": "Reverse-Math",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Reverse-Math",
+"key": "L:uncertified",
+"fmt": "L",
+"text": "Van Buren",
+"value": "Van Buren"
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:S22",
+"fmt": "P2",
+"text": "40.25%",
+"value": 40.249036768645865
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:S26",
+"fmt": "P2",
+"text": "56.00%",
+"value": 55.99700490107097
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:residual",
+"fmt": "SF2",
+"text": "+15.75",
+"value": 15.747968132425108
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:R22",
+"fmt": "P2",
+"text": "38.16%",
+"value": 38.16383784542011
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:R26",
+"fmt": "P2",
+"text": "34.06%",
+"value": 34.064085834420766
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:reg_share_change",
+"fmt": "SF2",
+"text": "\u22124.10",
+"value": -4.099752010999346
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:residual",
+"fmt": "F2",
+"text": "15.75",
+"value": 15.747968132425108
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:reg_share_change",
+"fmt": "F2",
+"text": "\u22124.10",
+"value": -4.099752010999346
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:dG",
+"fmt": "SF2",
+"text": "+19.85",
+"value": 19.847720143424453
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:dG",
+"fmt": "F2",
+"text": "19.85",
+"value": 19.847720143424453
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:reg_share_loss",
+"fmt": "F2",
+"text": "4.10",
+"value": 4.099752010999346
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:residual",
+"fmt": "F2",
+"text": "15.75",
+"value": 15.747968132425108
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:D26",
+"fmt": "I",
+"text": "24,679",
+"value": 24679.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:S22",
+"fmt": "P2",
+"text": "40.25%",
+"value": 40.249036768645865
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:ballots26",
+"fmt": "I",
+"text": "44,072",
+"value": 44072.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:residual_votes",
+"fmt": "SI",
+"text": "+6,940",
+"value": 6940.444515322397
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:D26",
+"fmt": "I",
+"text": "24,679",
+"value": 24679.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:D22",
+"fmt": "I",
+"text": "15,774",
+"value": 15774.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:demreg26",
+"fmt": "I",
+"text": "23,494",
+"value": 23494.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:demreg22",
+"fmt": "I",
+"text": "27,207",
+"value": 27207.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dubuque:gap_votes",
+"fmt": "SI",
+"text": "+11,058",
+"value": 11057.712978277648
+},
+{
+"page": "Reverse-Math",
+"key": "c:Polk:population",
+"fmt": "I",
+"text": "516,546",
+"value": 516546.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Polk:demreg22",
+"fmt": "I",
+"text": "137,412",
+"value": 137412.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Polk:demreg26",
+"fmt": "I",
+"text": "130,118",
+"value": 130118.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Polk:D22",
+"fmt": "I",
+"text": "100,312",
+"value": 100312.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Polk:D26",
+"fmt": "I",
+"text": "148,009",
+"value": 148009.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Polk:ballots22",
+"fmt": "I",
+"text": "192,318",
+"value": 192318.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Polk:ballots26",
+"fmt": "I",
+"text": "224,418",
+"value": 224418.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Polk:residual",
+"fmt": "SF2",
+"text": "+13.79",
+"value": 13.792930332920733
+},
+{
+"page": "Reverse-Math",
+"key": "c:Polk:reg_share_change",
+"fmt": "SF2",
+"text": "\u22122.65",
+"value": -2.654185255949102
+},
+{
+"page": "Reverse-Math",
+"key": "c:Polk:dG",
+"fmt": "SF2",
+"text": "+16.45",
+"value": 16.447115588869835
+},
+{
+"page": "Reverse-Math",
+"key": "c:Polk:residual_votes",
+"fmt": "SI",
+"text": "+30,954",
+"value": 30953.818394534042
+},
+{
+"page": "Reverse-Math",
+"key": "c:Linn:population",
+"fmt": "I",
+"text": "232,028",
+"value": 232028.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Linn:demreg22",
+"fmt": "I",
+"text": "61,472",
+"value": 61472.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Linn:demreg26",
+"fmt": "I",
+"text": "57,064",
+"value": 57064.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Linn:D22",
+"fmt": "I",
+"text": "47,539",
+"value": 47539.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Linn:D26",
+"fmt": "I",
+"text": "70,131",
+"value": 70131.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Linn:ballots22",
+"fmt": "I",
+"text": "94,129",
+"value": 94129.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Linn:ballots26",
+"fmt": "I",
+"text": "107,512",
+"value": 107512.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Linn:residual",
+"fmt": "SF2",
+"text": "+14.73",
+"value": 14.726762507253255
+},
+{
+"page": "Reverse-Math",
+"key": "c:Linn:reg_share_change",
+"fmt": "SF2",
+"text": "\u22122.38",
+"value": -2.378337510619417
+},
+{
+"page": "Reverse-Math",
+"key": "c:Linn:dG",
+"fmt": "SF2",
+"text": "+17.11",
+"value": 17.105100017872672
+},
+{
+"page": "Reverse-Math",
+"key": "c:Linn:residual_votes",
+"fmt": "SI",
+"text": "+15,833",
+"value": 15833.036906798116
+},
+{
+"page": "Reverse-Math",
+"key": "c:Scott:population",
+"fmt": "I",
+"text": "175,259",
+"value": 175259.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Scott:demreg22",
+"fmt": "I",
+"text": "43,092",
+"value": 43092.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Scott:demreg26",
+"fmt": "I",
+"text": "38,408",
+"value": 38408.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Scott:D22",
+"fmt": "I",
+"text": "27,530",
+"value": 27530.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Scott:D26",
+"fmt": "I",
+"text": "42,971",
+"value": 42971.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Scott:ballots22",
+"fmt": "I",
+"text": "64,012",
+"value": 64012.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Scott:ballots26",
+"fmt": "I",
+"text": "74,108",
+"value": 74108.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Scott:residual",
+"fmt": "SF2",
+"text": "+14.98",
+"value": 14.976732111420212
+},
+{
+"page": "Reverse-Math",
+"key": "c:Scott:reg_share_change",
+"fmt": "SF2",
+"text": "\u22121.88",
+"value": -1.8774828721601473
+},
+{
+"page": "Reverse-Math",
+"key": "c:Scott:dG",
+"fmt": "SF2",
+"text": "+16.85",
+"value": 16.85421498358036
+},
+{
+"page": "Reverse-Math",
+"key": "c:Scott:residual_votes",
+"fmt": "SI",
+"text": "+11,099",
+"value": 11098.956633131293
+},
+{
+"page": "Reverse-Math",
+"key": "c:Johnson:population",
+"fmt": "I",
+"text": "160,044",
+"value": 160044.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Johnson:demreg22",
+"fmt": "I",
+"text": "56,723",
+"value": 56723.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Johnson:demreg26",
+"fmt": "I",
+"text": "55,846",
+"value": 55846.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Johnson:D22",
+"fmt": "I",
+"text": "43,686",
+"value": 43686.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Johnson:D26",
+"fmt": "I",
+"text": "60,766",
+"value": 60766.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Johnson:ballots22",
+"fmt": "I",
+"text": "64,023",
+"value": 64023.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Johnson:ballots26",
+"fmt": "I",
+"text": "77,575",
+"value": 77575.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Johnson:residual",
+"fmt": "SF2",
+"text": "+10.10",
+"value": 10.097083735653356
+},
+{
+"page": "Reverse-Math",
+"key": "c:Johnson:reg_share_change",
+"fmt": "SF2",
+"text": "\u22122.29",
+"value": -2.2881734534002405
+},
+{
+"page": "Reverse-Math",
+"key": "c:Johnson:dG",
+"fmt": "SF2",
+"text": "+12.39",
+"value": 12.385257189053597
+},
+{
+"page": "Reverse-Math",
+"key": "c:Johnson:residual_votes",
+"fmt": "SI",
+"text": "+7,833",
+"value": 7832.812707933088
+},
+{
+"page": "Reverse-Math",
+"key": "c:Black Hawk:population",
+"fmt": "I",
+"text": "131,532",
+"value": 131532.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Black Hawk:demreg22",
+"fmt": "I",
+"text": "33,374",
+"value": 33374.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Black Hawk:demreg26",
+"fmt": "I",
+"text": "29,172",
+"value": 29172.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Black Hawk:D22",
+"fmt": "I",
+"text": "21,585",
+"value": 21585.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Black Hawk:D26",
+"fmt": "I",
+"text": "33,464",
+"value": 33464.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Black Hawk:ballots22",
+"fmt": "I",
+"text": "47,514",
+"value": 47514.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Black Hawk:ballots26",
+"fmt": "I",
+"text": "53,181",
+"value": 53181.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Black Hawk:residual",
+"fmt": "SF2",
+"text": "+17.50",
+"value": 17.496013009573034
+},
+{
+"page": "Reverse-Math",
+"key": "c:Black Hawk:reg_share_change",
+"fmt": "SF2",
+"text": "\u22122.66",
+"value": -2.6614701464465043
+},
+{
+"page": "Reverse-Math",
+"key": "c:Black Hawk:dG",
+"fmt": "SF2",
+"text": "+20.16",
+"value": 20.157483156019538
+},
+{
+"page": "Reverse-Math",
+"key": "c:Black Hawk:residual_votes",
+"fmt": "SI",
+"text": "+9,305",
+"value": 9304.554678621036
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dallas:population",
+"fmt": "I",
+"text": "118,457",
+"value": 118457.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dallas:demreg22",
+"fmt": "I",
+"text": "20,828",
+"value": 20828.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dallas:demreg26",
+"fmt": "I",
+"text": "22,753",
+"value": 22753.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dallas:D22",
+"fmt": "I",
+"text": "19,272",
+"value": 19272.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dallas:D26",
+"fmt": "I",
+"text": "33,305",
+"value": 33305.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dallas:ballots22",
+"fmt": "I",
+"text": "44,867",
+"value": 44867.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dallas:ballots26",
+"fmt": "I",
+"text": "56,324",
+"value": 56324.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dallas:residual",
+"fmt": "SF2",
+"text": "+16.18",
+"value": 16.177480171188343
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dallas:reg_share_change",
+"fmt": "SF2",
+"text": "\u22120.91",
+"value": -0.9111312184542406
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dallas:dG",
+"fmt": "SF2",
+"text": "+17.09",
+"value": 17.088611389642583
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dallas:residual_votes",
+"fmt": "SI",
+"text": "+9,112",
+"value": 9111.803931620121
+},
+{
+"page": "Reverse-Math",
+"key": "gd:six:dG:min",
+"fmt": "SF2",
+"text": "+12.39",
+"value": 12.385257189053597
+},
+{
+"page": "Reverse-Math",
+"key": "gd:six:dG:max",
+"fmt": "SF2",
+"text": "+20.16",
+"value": 20.157483156019538
+},
+{
+"page": "Reverse-Math",
+"key": "n:six_below_median",
+"fmt": "N",
+"text": "5",
+"value": 5.0
+},
+{
+"page": "Reverse-Math",
+"key": "st:dG:median",
+"fmt": "SF2",
+"text": "+19.35",
+"value": 19.350931730158784
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dallas:demreg22",
+"fmt": "I",
+"text": "20,828",
+"value": 20828.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dallas:demreg26",
+"fmt": "I",
+"text": "22,753",
+"value": 22753.0
+},
+{
+"page": "Reverse-Math",
+"key": "c:Dallas:reg_share_change",
+"fmt": "SF2",
+"text": "\u22120.91",
+"value": -0.9111312184542406
+},
+{
+"page": "Reverse-Math",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Reverse-Math",
+"key": "g:six:n",
+"fmt": "N",
+"text": "6",
+"value": 6.0
+},
+{
+"page": "Reverse-Math",
+"key": "g:six:S22",
+"fmt": "P2",
+"text": "51.28%",
+"value": 51.28091811791352
+},
+{
+"page": "Reverse-Math",
+"key": "g:six:S26",
+"fmt": "P2",
+"text": "65.53%",
+"value": 65.52591558509437
+},
+{
+"page": "Reverse-Math",
+"key": "g:six:R22",
+"fmt": "P2",
+"text": "39.11%",
+"value": 39.11309182074307
+},
+{
+"page": "Reverse-Math",
+"key": "g:six:R26",
+"fmt": "P2",
+"text": "36.82%",
+"value": 36.82444262546795
+},
+{
+"page": "Reverse-Math",
+"key": "g:six:residual",
+"fmt": "SF2",
+"text": "+14.24",
+"value": 14.244997467180845
+},
+{
+"page": "Reverse-Math",
+"key": "g:six:reg_share_change",
+"fmt": "SF2",
+"text": "\u22122.29",
+"value": -2.28864919527512
+},
+{
+"page": "Reverse-Math",
+"key": "g:six:dG",
+"fmt": "SF2",
+"text": "+16.53",
+"value": 16.533646662455965
+},
+{
+"page": "Reverse-Math",
+"key": "gd:six:dG:median",
+"fmt": "SF2",
+"text": "+16.97",
+"value": 16.97141318661147
+},
+{
+"page": "Reverse-Math",
+"key": "gd:six:dG:min",
+"fmt": "SF2",
+"text": "+12.39",
+"value": 12.385257189053597
+},
+{
+"page": "Reverse-Math",
+"key": "gd:six:dG:max",
+"fmt": "SF2",
+"text": "+20.16",
+"value": 20.157483156019538
+},
+{
+"page": "Reverse-Math",
+"key": "g:six:residual_votes_sum",
+"fmt": "SI",
+"text": "+84,135",
+"value": 84134.98325263768
+},
+{
+"page": "Reverse-Math",
+"key": "g:other93:n",
+"fmt": "N",
+"text": "93",
+"value": 93.0
+},
+{
+"page": "Reverse-Math",
+"key": "g:other93:S22",
+"fmt": "P2",
+"text": "30.82%",
+"value": 30.82372680370339
+},
+{
+"page": "Reverse-Math",
+"key": "g:other93:S26",
+"fmt": "P2",
+"text": "46.99%",
+"value": 46.988508892275455
+},
+{
+"page": "Reverse-Math",
+"key": "g:other93:R22",
+"fmt": "P2",
+"text": "26.19%",
+"value": 26.18958630720529
+},
+{
+"page": "Reverse-Math",
+"key": "g:other93:R26",
+"fmt": "P2",
+"text": "23.03%",
+"value": 23.0340244325468
+},
+{
+"page": "Reverse-Math",
+"key": "g:other93:residual",
+"fmt": "SF2",
+"text": "+16.16",
+"value": 16.164782088572064
+},
+{
+"page": "Reverse-Math",
+"key": "g:other93:reg_share_change",
+"fmt": "SF2",
+"text": "\u22123.16",
+"value": -3.1555618746584884
+},
+{
+"page": "Reverse-Math",
+"key": "g:other93:dG",
+"fmt": "SF2",
+"text": "+19.32",
+"value": 19.320343963230552
+},
+{
+"page": "Reverse-Math",
+"key": "gd:other93:dG:median",
+"fmt": "SF2",
+"text": "+19.54",
+"value": 19.537487955692825
+},
+{
+"page": "Reverse-Math",
+"key": "gd:other93:dG:min",
+"fmt": "SF2",
+"text": "+10.86",
+"value": 10.8592859190574
+},
+{
+"page": "Reverse-Math",
+"key": "gd:other93:dG:max",
+"fmt": "SF2",
+"text": "+26.73",
+"value": 26.730720107877083
+},
+{
+"page": "Reverse-Math",
+"key": "g:other93:residual_votes_sum",
+"fmt": "SI",
+"text": "+125,999",
+"value": 125998.63454353016
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:n",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:S22",
+"fmt": "P2",
+"text": "39.25%",
+"value": 39.25095252337421
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:S26",
+"fmt": "P2",
+"text": "54.94%",
+"value": 54.94133500565276
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:R22",
+"fmt": "P2",
+"text": "31.41%",
+"value": 31.40744870890716
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:R26",
+"fmt": "P2",
+"text": "28.76%",
+"value": 28.762044769538324
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:residual",
+"fmt": "SF2",
+"text": "+15.69",
+"value": 15.690382482278551
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:reg_share_change",
+"fmt": "SF2",
+"text": "\u22122.65",
+"value": -2.645403939368837
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:dG",
+"fmt": "SF2",
+"text": "+18.34",
+"value": 18.335786421647388
+},
+{
+"page": "Reverse-Math",
+"key": "gd:all:dG:median",
+"fmt": "SF2",
+"text": "+19.35",
+"value": 19.350931730158784
+},
+{
+"page": "Reverse-Math",
+"key": "gd:all:dG:min",
+"fmt": "SF2",
+"text": "+10.86",
+"value": 10.8592859190574
+},
+{
+"page": "Reverse-Math",
+"key": "gd:all:dG:max",
+"fmt": "SF2",
+"text": "+26.73",
+"value": 26.730720107877083
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:residual_votes_sum",
+"fmt": "SI",
+"text": "+210,134",
+"value": 210133.61779616785
+},
+{
+"page": "Reverse-Math",
+"key": "st:dG:pos",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Reverse-Math",
+"key": "g:six:dG",
+"fmt": "SF2",
+"text": "+16.53",
+"value": 16.533646662455965
+},
+{
+"page": "Reverse-Math",
+"key": "g:other93:dG",
+"fmt": "SF2",
+"text": "+19.32",
+"value": 19.320343963230552
+},
+{
+"page": "Reverse-Math",
+"key": "n:r2_dG_log10pop",
+"fmt": "F3",
+"text": "0.018",
+"value": 0.018148624203426476
+},
+{
+"page": "Reverse-Math",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:residual_votes_sum",
+"fmt": "I",
+"text": "210,134",
+"value": 210133.61779616785
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:S26",
+"fmt": "P2",
+"text": "54.94%",
+"value": 54.94133500565276
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:S22",
+"fmt": "P2",
+"text": "39.25%",
+"value": 39.25095252337421
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:ballots26",
+"fmt": "I",
+"text": "1,382,511",
+"value": 1382511.0
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:gain_over_2022_share",
+"fmt": "I",
+"text": "216,921",
+"value": 216921.263759574
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:D_change",
+"fmt": "SI",
+"text": "+276,620",
+"value": 276620.0
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:gain_over_2022_share",
+"fmt": "I",
+"text": "216,921",
+"value": 216921.263759574
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:turnout_part",
+"fmt": "I",
+"text": "59,699",
+"value": 59698.73624042599
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:reg_share_loss",
+"fmt": "F2",
+"text": "2.65",
+"value": 2.645403939368837
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:offset_flips_0",
+"fmt": "I",
+"text": "36,573",
+"value": 36573.0004562075
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:offset_additions_0",
+"fmt": "I",
+"text": "76,666",
+"value": 76666.41708703089
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:offset_flips_1",
+"fmt": "I",
+"text": "50,398",
+"value": 50398.1104562075
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:offset_additions_1",
+"fmt": "I",
+"text": "103,478",
+"value": 103478.23407690419
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:offset_flips_2",
+"fmt": "I",
+"text": "64,223",
+"value": 64223.2204562075
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:offset_additions_2",
+"fmt": "I",
+"text": "129,211",
+"value": 129211.19303502847
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:gain_over_2022_share",
+"fmt": "I",
+"text": "216,921",
+"value": 216921.263759574
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:ratio_low",
+"fmt": "F2",
+"text": "1.68",
+"value": 1.6788117086788898
+},
+{
+"page": "Reverse-Math",
+"key": "g:all:ratio_high",
+"fmt": "F2",
+"text": "5.93",
+"value": 5.931185876294604
+},
+{
+"page": "Reverse-Math",
+"key": "st:residual_1822:sd",
+"fmt": "F2",
+"text": "2.52",
+"value": 2.5195662577057067
+},
+{
+"page": "Reverse-Math",
+"key": "st:residual:sd",
+"fmt": "F2",
+"text": "2.47",
+"value": 2.47138425086253
+},
+{
+"page": "Reverse-Math",
+"key": "n:bf_p_residual",
+"fmt": "F2",
+"text": "0.62",
+"value": 0.6158375694075696
+},
+{
+"page": "Reverse-Math",
+"key": "st:dG_1822:neg",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Reverse-Math",
+"key": "st:residual:within3",
+"fmt": "N",
+"text": "83",
+"value": 83.0
+},
+{
+"page": "Reverse-Math",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Reverse-Math",
+"key": "st:residual:median",
+"fmt": "SF2",
+"text": "+16.40",
+"value": 16.400124158447376
+},
+{
+"page": "Reverse-Math",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "n:certified",
+"fmt": "N",
+"text": "98",
+"value": 98.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "L:uncertified",
+"fmt": "L",
+"text": "Van Buren",
+"value": "Van Buren"
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "n:gov22_eq_ballots",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "n:gv_vs_ballots_mean_diff",
+"fmt": "F2",
+"text": "0.23",
+"value": 0.23186417331401846
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "n:demreg_fell",
+"fmt": "N",
+"text": "98",
+"value": 98.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "L:nonloss",
+"fmt": "L",
+"text": "Dallas",
+"value": "Dallas"
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dallas:demreg22",
+"fmt": "I",
+"text": "20,828",
+"value": 20828.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dallas:demreg26",
+"fmt": "I",
+"text": "22,753",
+"value": 22753.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dallas:reg_share_change",
+"fmt": "SF2",
+"text": "\u22120.91",
+"value": -0.9111312184542406
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "g:all:dG",
+"fmt": "SF2",
+"text": "+18.34",
+"value": 18.335786421647388
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "st:dG:median",
+"fmt": "SF2",
+"text": "+19.35",
+"value": 19.350931730158784
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "L:top_dG",
+"fmt": "L",
+"text": "Crawford",
+"value": "Crawford"
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Crawford:dG",
+"fmt": "SF2",
+"text": "+26.73",
+"value": 26.730720107877083
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "L:bottom_dG",
+"fmt": "L",
+"text": "Lyon",
+"value": "Lyon"
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Lyon:dG",
+"fmt": "SF2",
+"text": "+10.86",
+"value": 10.8592859190574
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "L:top5",
+"fmt": "L",
+"text": "Crawford, Chickasaw, Davis, Buena Vista, Wayne",
+"value": "Crawford, Chickasaw, Davis, Buena Vista, Wayne"
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "L:floor4",
+"fmt": "L",
+"text": "Sioux, Lyon, Osceola, O'Brien",
+"value": "Sioux, Lyon, Osceola, O'Brien"
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "L:nonloss",
+"fmt": "L",
+"text": "Dallas",
+"value": "Dallas"
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:D22",
+"fmt": "I",
+"text": "15,774",
+"value": 15774.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:D26",
+"fmt": "I",
+"text": "24,679",
+"value": 24679.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:ballots22",
+"fmt": "I",
+"text": "39,191",
+"value": 39191.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:ballots26",
+"fmt": "I",
+"text": "44,072",
+"value": 44072.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:S22",
+"fmt": "F2",
+"text": "40.25",
+"value": 40.249036768645865
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:S26",
+"fmt": "F2",
+"text": "56.00",
+"value": 55.99700490107097
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:demreg22",
+"fmt": "I",
+"text": "27,207",
+"value": 27207.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:demreg26",
+"fmt": "I",
+"text": "23,494",
+"value": 23494.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:totreg22",
+"fmt": "I",
+"text": "71,290",
+"value": 71290.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:totreg26",
+"fmt": "I",
+"text": "68,970",
+"value": 68970.0
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:R22",
+"fmt": "F2",
+"text": "38.16",
+"value": 38.16383784542011
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:R26",
+"fmt": "F2",
+"text": "34.06",
+"value": 34.064085834420766
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:G22",
+"fmt": "SF2",
+"text": "+2.09",
+"value": 2.0851989232257537
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:G26",
+"fmt": "SF2",
+"text": "+21.93",
+"value": 21.932919066650207
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:dG",
+"fmt": "SF2",
+"text": "+19.85",
+"value": 19.847720143424453
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:reg_share_change",
+"fmt": "SF2",
+"text": "\u22124.10",
+"value": -4.099752010999346
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:residual",
+"fmt": "F2",
+"text": "15.75",
+"value": 15.747968132425108
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:residual_votes",
+"fmt": "SI",
+"text": "+6,940",
+"value": 6940.444515322397
+},
+{
+"page": "Locked-Iowa-Formula",
+"key": "c:Dubuque:gap_votes",
+"fmt": "SI",
+"text": "+11,058",
+"value": 11057.712978277648
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:certified",
+"fmt": "N",
+"text": "98",
+"value": 98.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "L:uncertified",
+"fmt": "L",
+"text": "Van Buren",
+"value": "Van Buren"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "L:top5",
+"fmt": "L",
+"text": "Crawford, Chickasaw, Davis, Buena Vista, Wayne",
+"value": "Crawford, Chickasaw, Davis, Buena Vista, Wayne"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "L:bottom_dG",
+"fmt": "L",
+"text": "Lyon",
+"value": "Lyon"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Lyon:dG",
+"fmt": "SF2",
+"text": "+10.86",
+"value": 10.8592859190574
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "L:top_dG",
+"fmt": "L",
+"text": "Crawford",
+"value": "Crawford"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Crawford:dG",
+"fmt": "SF2",
+"text": "+26.73",
+"value": 26.730720107877083
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "L:top5",
+"fmt": "L",
+"text": "Crawford, Chickasaw, Davis, Buena Vista, Wayne",
+"value": "Crawford, Chickasaw, Davis, Buena Vista, Wayne"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Crawford:dG",
+"fmt": "SF2",
+"text": "+26.73",
+"value": 26.730720107877083
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Chickasaw:dG",
+"fmt": "SF2",
+"text": "+24.29",
+"value": 24.291864996928634
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Davis:dG",
+"fmt": "SF2",
+"text": "+24.26",
+"value": 24.260090582402984
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Buena Vista:dG",
+"fmt": "SF2",
+"text": "+23.84",
+"value": 23.8448035142616
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Wayne:dG",
+"fmt": "SF2",
+"text": "+23.30",
+"value": 23.30439172454954
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Sioux:R22",
+"fmt": "P1",
+"text": "9.1%",
+"value": 9.096359743040685
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Sioux:dG",
+"fmt": "SF2",
+"text": "+13.68",
+"value": 13.677524660387716
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Lyon:R22",
+"fmt": "P1",
+"text": "9.5%",
+"value": 9.500749452323301
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Lyon:dG",
+"fmt": "SF2",
+"text": "+10.86",
+"value": 10.8592859190574
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Osceola:R22",
+"fmt": "P1",
+"text": "10.6%",
+"value": 10.612148428267549
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Osceola:dG",
+"fmt": "SF2",
+"text": "+15.56",
+"value": 15.55784772355384
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:O'Brien:R22",
+"fmt": "P1",
+"text": "13.6%",
+"value": 13.582395087001023
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:O'Brien:dG",
+"fmt": "SF2",
+"text": "+16.27",
+"value": 16.265919833135
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "L:lowest5_dG",
+"fmt": "L",
+"text": "Lyon, Johnson, Hancock, Cerro Gordo, Sioux",
+"value": "Lyon, Johnson, Hancock, Cerro Gordo, Sioux"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Dallas:demreg22",
+"fmt": "I",
+"text": "20,828",
+"value": 20828.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Dallas:demreg26",
+"fmt": "I",
+"text": "22,753",
+"value": 22753.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Dallas:D22",
+"fmt": "I",
+"text": "19,272",
+"value": 19272.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Dallas:D26",
+"fmt": "I",
+"text": "33,305",
+"value": 33305.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:D_rose",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:ballots_fell_D_rose",
+"fmt": "N",
+"text": "9",
+"value": 9.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "L:ballots_fell_D_rose",
+"fmt": "L",
+"text": "Kossuth, Chickasaw, Calhoun, Humboldt, Davis, Pocahontas, Wayne, Taylor, Adams",
+"value": "Kossuth, Chickasaw, Calhoun, Humboldt, Davis, Pocahontas, Wayne, Taylor, Adams"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:ceiling_gt15",
+"fmt": "N",
+"text": "88",
+"value": 88.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:jump14_regfell",
+"fmt": "N",
+"text": "83",
+"value": 83.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "st:dG:median",
+"fmt": "SF2",
+"text": "+19.35",
+"value": 19.350931730158784
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:not_gt15",
+"fmt": "N",
+"text": "11",
+"value": 11.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "L:not_gt15",
+"fmt": "L",
+"text": "Johnson, Cerro Gordo, Sioux, Washington, Jefferson, Mills, Cass, Lyon, Hancock, Winnebago, Worth",
+"value": "Johnson, Cerro Gordo, Sioux, Washington, Jefferson, Mills, Cass, Lyon, Hancock, Winnebago, Worth"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:gv_ceiling_gt15",
+"fmt": "N",
+"text": "91",
+"value": 91.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "L:gv_top5",
+"fmt": "L",
+"text": "Crawford, Davis, Chickasaw, Buena Vista, Jackson",
+"value": "Crawford, Davis, Chickasaw, Buena Vista, Jackson"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Sioux:population",
+"fmt": "I",
+"text": "36,774",
+"value": 36774.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Sioux:G22",
+"fmt": "SF2",
+"text": "\u22120.14",
+"value": -0.13528441400119995
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Sioux:G26",
+"fmt": "SF2",
+"text": "+13.54",
+"value": 13.542240246386516
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Sioux:dG",
+"fmt": "SF2",
+"text": "+13.68",
+"value": 13.677524660387716
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Sioux:R22",
+"fmt": "P1",
+"text": "9.1%",
+"value": 9.096359743040685
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Sioux:R26",
+"fmt": "P1",
+"text": "6.4%",
+"value": 6.385669125395153
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Sioux:demreg22",
+"fmt": "I",
+"text": "2,124",
+"value": 2124.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Sioux:demreg26",
+"fmt": "I",
+"text": "1,515",
+"value": 1515.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Sioux:demreg_pct_change",
+"fmt": "SP1",
+"text": "\u221228.7%",
+"value": -28.672316384180792
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Sioux:D22",
+"fmt": "I",
+"text": "1,280",
+"value": 1280.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Sioux:D26",
+"fmt": "I",
+"text": "3,096",
+"value": 3096.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Sioux:residual_votes",
+"fmt": "SI",
+"text": "+1,704",
+"value": 1703.8073368804257
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Buena Vista:population",
+"fmt": "I",
+"text": "20,449",
+"value": 20449.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Buena Vista:G22",
+"fmt": "SF2",
+"text": "\u22121.52",
+"value": -1.518100415298445
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Buena Vista:G26",
+"fmt": "SF2",
+"text": "+22.33",
+"value": 22.326703098963154
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Buena Vista:dG",
+"fmt": "SF2",
+"text": "+23.84",
+"value": 23.8448035142616
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Buena Vista:R22",
+"fmt": "P1",
+"text": "26.6%",
+"value": 26.56147809025507
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Buena Vista:R26",
+"fmt": "P1",
+"text": "25.1%",
+"value": 25.134234401036846
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Buena Vista:demreg22",
+"fmt": "I",
+"text": "3,249",
+"value": 3249.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Buena Vista:demreg26",
+"fmt": "I",
+"text": "2,715",
+"value": 2715.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Buena Vista:demreg_pct_change",
+"fmt": "SP1",
+"text": "\u221216.4%",
+"value": -16.43582640812558
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Buena Vista:D22",
+"fmt": "I",
+"text": "1,299",
+"value": 1299.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Buena Vista:D26",
+"fmt": "I",
+"text": "2,916",
+"value": 2916.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Buena Vista:residual_votes",
+"fmt": "SI",
+"text": "+1,377",
+"value": 1377.334875650665
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Crawford:population",
+"fmt": "I",
+"text": "16,237",
+"value": 16237.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Crawford:G22",
+"fmt": "SF2",
+"text": "\u22125.10",
+"value": -5.098815281039876
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Crawford:G26",
+"fmt": "SF2",
+"text": "+21.63",
+"value": 21.631904826837207
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Crawford:dG",
+"fmt": "SF2",
+"text": "+26.73",
+"value": 26.730720107877083
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Crawford:R22",
+"fmt": "P1",
+"text": "24.4%",
+"value": 24.44510503369005
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Crawford:R26",
+"fmt": "P1",
+"text": "21.1%",
+"value": 21.12739067218432
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Crawford:demreg22",
+"fmt": "I",
+"text": "2,467",
+"value": 2467.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Crawford:demreg26",
+"fmt": "I",
+"text": "1,889",
+"value": 1889.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Crawford:demreg_pct_change",
+"fmt": "SP1",
+"text": "\u221223.4%",
+"value": -23.42926631536279
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Crawford:D22",
+"fmt": "I",
+"text": "876",
+"value": 876.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Crawford:D26",
+"fmt": "I",
+"text": "2,185",
+"value": 2185.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Crawford:residual_votes",
+"fmt": "SI",
+"text": "+1,196",
+"value": 1196.404593639576
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:O'Brien:population",
+"fmt": "I",
+"text": "14,220",
+"value": 14220.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:O'Brien:G22",
+"fmt": "SF2",
+"text": "+0.70",
+"value": 0.6980612987185211
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:O'Brien:G26",
+"fmt": "SF2",
+"text": "+16.96",
+"value": 16.963981131853522
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:O'Brien:dG",
+"fmt": "SF2",
+"text": "+16.27",
+"value": 16.265919833135
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:O'Brien:R22",
+"fmt": "P1",
+"text": "13.6%",
+"value": 13.582395087001023
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:O'Brien:R26",
+"fmt": "P1",
+"text": "11.9%",
+"value": 11.911987860394538
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:O'Brien:demreg22",
+"fmt": "I",
+"text": "1,327",
+"value": 1327.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:O'Brien:demreg26",
+"fmt": "I",
+"text": "1,099",
+"value": 1099.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:O'Brien:demreg_pct_change",
+"fmt": "SP1",
+"text": "\u221217.2%",
+"value": -17.181612660135645
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:O'Brien:D22",
+"fmt": "I",
+"text": "776",
+"value": 776.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:O'Brien:D26",
+"fmt": "I",
+"text": "1,639",
+"value": 1639.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:O'Brien:residual_votes",
+"fmt": "SI",
+"text": "+828",
+"value": 828.4412955465586
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Lyon:population",
+"fmt": "I",
+"text": "12,354",
+"value": 12354.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Lyon:G22",
+"fmt": "SF2",
+"text": "+1.12",
+"value": 1.124001840951669
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Lyon:G26",
+"fmt": "SF2",
+"text": "+11.98",
+"value": 11.98328776000907
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Lyon:dG",
+"fmt": "SF2",
+"text": "+10.86",
+"value": 10.8592859190574
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Lyon:R22",
+"fmt": "P1",
+"text": "9.5%",
+"value": 9.500749452323301
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Lyon:R26",
+"fmt": "P1",
+"text": "7.8%",
+"value": 7.823563551944283
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Lyon:demreg22",
+"fmt": "I",
+"text": "824",
+"value": 824.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Lyon:demreg26",
+"fmt": "I",
+"text": "674",
+"value": 674.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Lyon:demreg_pct_change",
+"fmt": "SP1",
+"text": "\u221218.2%",
+"value": -18.203883495145632
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Lyon:D22",
+"fmt": "I",
+"text": "534",
+"value": 534.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Lyon:D26",
+"fmt": "I",
+"text": "1,087",
+"value": 1087.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Lyon:residual_votes",
+"fmt": "SI",
+"text": "+504",
+"value": 503.9136490250696
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Chickasaw:population",
+"fmt": "I",
+"text": "11,663",
+"value": 11663.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Chickasaw:G22",
+"fmt": "SF2",
+"text": "\u22121.25",
+"value": -1.2487781605976025
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Chickasaw:G26",
+"fmt": "SF2",
+"text": "+23.04",
+"value": 23.04308683633103
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Chickasaw:dG",
+"fmt": "SF2",
+"text": "+24.29",
+"value": 24.291864996928634
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Chickasaw:R22",
+"fmt": "P1",
+"text": "26.9%",
+"value": 26.944879990350984
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Chickasaw:R26",
+"fmt": "P1",
+"text": "22.6%",
+"value": 22.615625816566503
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Chickasaw:demreg22",
+"fmt": "I",
+"text": "2,234",
+"value": 2234.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Chickasaw:demreg26",
+"fmt": "I",
+"text": "1,731",
+"value": 1731.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Chickasaw:demreg_pct_change",
+"fmt": "SP1",
+"text": "\u221222.5%",
+"value": -22.51566696508505
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Chickasaw:D22",
+"fmt": "I",
+"text": "1,292",
+"value": 1292.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Chickasaw:D26",
+"fmt": "I",
+"text": "2,277",
+"value": 2277.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Chickasaw:residual_votes",
+"fmt": "SI",
+"text": "+996",
+"value": 995.5354017501988
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Davis:population",
+"fmt": "I",
+"text": "9,230",
+"value": 9230.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Davis:G22",
+"fmt": "SF2",
+"text": "\u22125.26",
+"value": -5.258599035235974
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Davis:G26",
+"fmt": "SF2",
+"text": "+19.00",
+"value": 19.00149154716701
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Davis:dG",
+"fmt": "SF2",
+"text": "+24.26",
+"value": 24.260090582402984
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Davis:R22",
+"fmt": "P1",
+"text": "25.7%",
+"value": 25.68274259151656
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Davis:R26",
+"fmt": "P1",
+"text": "18.7%",
+"value": 18.65871219913598
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Davis:demreg22",
+"fmt": "I",
+"text": "1,326",
+"value": 1326.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Davis:demreg26",
+"fmt": "I",
+"text": "907",
+"value": 907.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Davis:demreg_pct_change",
+"fmt": "SP1",
+"text": "\u221231.6%",
+"value": -31.598793363499247
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Davis:D22",
+"fmt": "I",
+"text": "626",
+"value": 626.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Davis:D26",
+"fmt": "I",
+"text": "1,146",
+"value": 1146.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Davis:residual_votes",
+"fmt": "SI",
+"text": "+524",
+"value": 524.4933115823818
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Wayne:population",
+"fmt": "I",
+"text": "6,738",
+"value": 6738.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Wayne:G22",
+"fmt": "SF2",
+"text": "\u22122.48",
+"value": -2.483629170167255
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Wayne:G26",
+"fmt": "SF2",
+"text": "+20.82",
+"value": 20.820762554382284
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Wayne:dG",
+"fmt": "SF2",
+"text": "+23.30",
+"value": 23.30439172454954
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Wayne:R22",
+"fmt": "P1",
+"text": "19.3%",
+"value": 19.344094286446325
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Wayne:R26",
+"fmt": "P1",
+"text": "15.7%",
+"value": 15.664556962025317
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Wayne:demreg22",
+"fmt": "I",
+"text": "755",
+"value": 755.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Wayne:demreg26",
+"fmt": "I",
+"text": "594",
+"value": 594.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Wayne:demreg_pct_change",
+"fmt": "SP1",
+"text": "\u221221.3%",
+"value": -21.32450331125828
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Wayne:D22",
+"fmt": "I",
+"text": "406",
+"value": 406.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Wayne:D26",
+"fmt": "I",
+"text": "845",
+"value": 845.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Wayne:residual_votes",
+"fmt": "SI",
+"text": "+455",
+"value": 454.51162790697674
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Osceola:population",
+"fmt": "I",
+"text": "5,980",
+"value": 5980.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Osceola:G22",
+"fmt": "SF2",
+"text": "\u22120.09",
+"value": -0.08809344544967956
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Osceola:G26",
+"fmt": "SF2",
+"text": "+15.47",
+"value": 15.46975427810416
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Osceola:dG",
+"fmt": "SF2",
+"text": "+15.56",
+"value": 15.55784772355384
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Osceola:R22",
+"fmt": "P1",
+"text": "10.6%",
+"value": 10.612148428267549
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Osceola:R26",
+"fmt": "P1",
+"text": "9.8%",
+"value": 9.787765293383272
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Osceola:demreg22",
+"fmt": "I",
+"text": "449",
+"value": 449.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Osceola:demreg26",
+"fmt": "I",
+"text": "392",
+"value": 392.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Osceola:demreg_pct_change",
+"fmt": "SP1",
+"text": "\u221212.7%",
+"value": -12.694877505567929
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Osceola:D22",
+"fmt": "I",
+"text": "245",
+"value": 245.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Osceola:D26",
+"fmt": "I",
+"text": "613",
+"value": 613.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "c:Osceola:residual_votes",
+"fmt": "SI",
+"text": "+358",
+"value": 357.58118556701027
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:top5_flip",
+"fmt": "N",
+"text": "5",
+"value": 5.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:flip",
+"fmt": "N",
+"text": "18",
+"value": 18.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:G26_neg",
+"fmt": "N",
+"text": "0",
+"value": 0.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:top5_demreg_fell",
+"fmt": "N",
+"text": "5",
+"value": 5.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:top5_demreg_pct_min",
+"fmt": "SP1",
+"text": "\u221216.4%",
+"value": -16.43582640812558
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:top5_demreg_pct_max",
+"fmt": "SP1",
+"text": "\u221231.6%",
+"value": -31.598793363499247
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:floor4_below_median",
+"fmt": "N",
+"text": "4",
+"value": 4.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "st:dG:pos",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "st:dG:median",
+"fmt": "SF1",
+"text": "+19.4",
+"value": 19.350931730158784
+},
+{
+"page": "Graphs",
+"key": "n:certified",
+"fmt": "N",
+"text": "98",
+"value": 98.0
+},
+{
+"page": "Graphs",
+"key": "n:counties",
+"fmt": "N",
+"text": "99",
+"value": 99.0
+},
+{
+"page": "Graphs",
+"key": "L:uncertified",
+"fmt": "L",
+"text": "Van Buren",
+"value": "Van Buren"
+}
+]
