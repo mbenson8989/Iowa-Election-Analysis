@@ -174,8 +174,8 @@ for page in ['Home', 'Reverse-Math', 'Locked-Iowa-Formula', 'Floor-and-Ceiling',
         stray += re.findall(r'\d[\d,.]*', s)
     # charts are referenced by 99-county captions; the literal 99 in captions is the county count (verified n:counties)
     check(f'[{page}] no unverified numbers outside claims/allow-list', not stray, str(stray[:10]))
-    for f in re.findall(r'raw\.githubusercontent\.com/mbenson8989/Iowa-Election-Analysis/main/([\w.-]+)', out):
-        check(f'[{page}] image exists in repo root: {f}', os.path.exists(os.path.join(ROOT, f)))
+    for f in re.findall(r'raw\.githubusercontent\.com/mbenson8989/Iowa-Election-Analysis/main/((?:graphics/)?[\w.-]+)', out):
+        check(f'[{page}] image exists in repo: {f}', os.path.exists(os.path.join(ROOT, f)))
 check('Literal "99" in captions equals verified county count', val('n:counties') == 99)
 # ---------- summary
 hdr = [f'Iowa wiki verification, run {datetime.datetime.now():%Y-%m-%d %H:%M} CST', f'PASS {P}  FAIL {F}  (claims checked: {len(claims)})', '']

@@ -21,8 +21,11 @@ def xt(ax, d=df):
     ax.set_xticks(np.arange(len(d))); ax.set_xticklabels([lab(c) for c in d.county], rotation=90, fontsize=6.5)
     ax.set_xlim(-0.8, len(d) - 0.2)
 
+GRAPHICS = os.path.join(ROOT, 'graphics')
+
 def save(fig, name):
-    fig.savefig(os.path.join(ROOT, name), dpi=150); plt.close(fig); print('wrote', name)
+    os.makedirs(GRAPHICS, exist_ok=True)
+    fig.savefig(os.path.join(GRAPHICS, name), dpi=150); plt.close(fig); print('wrote', os.path.join('graphics', name))
 
 # 1. Delta-G by population
 fig, ax = plt.subplots(figsize=(18, 8)); fig.subplots_adjust(bottom=0.25, top=0.9, left=0.05, right=0.99)

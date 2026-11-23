@@ -4,7 +4,7 @@ Iowa 22-26, ΔG method from the Cedar County (Nebraska) audit, Residual Math, Lo
 Iowa governor race, 2022 vs 2026, all 99 counties. Same method as Morissa Benson's
 [Nebraska Election Analysis wiki](https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki), which began with the
 [Cedar County Audit](https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit).
-The write-up is on this repo's **Wiki** tab (Home, Reverse-Math, Locked-Iowa-Formula, Floor-and-Ceiling, Graphs).
+The write-up is on this repo's **Wiki** tab (Home, Reverse-Math, Locked-Iowa-Formula, Floor-and-Ceiling, Graphs, Resources).
 
 **2026 figures are unofficial** (Iowa SOS results site, election 127077). The State Canvass has not been completed.
 These files measure a pattern; they make no claim about intent, fraud or cause. "Implied extra votes" are what a
@@ -18,7 +18,7 @@ hypothesis would have to account for, not votes shown to be improper.
 - Implied extra votes = D 2026 − (S 2022 ÷ 100) × ballots 2026
 
 ## Files
-- `*.png` (repo root): the charts embedded in the wiki
+- [`graphics/`](https://github.com/mbenson8989/Iowa-Election-Analysis/tree/main/graphics): every chart and shareable graphic used on the wiki (analysis charts, top-10 county graphics, Guarantee Clause graphics)
 - `data/iowa_wiki_99_counties_by_population.csv`: every county input and result, largest to smallest population
 - `data/summary.json`, `data/wiki_claims.json`: statewide results and every number cited in the wiki
 - `scripts/build_data.py` → `scripts/charts.py` → `scripts/build_wiki.py` → `scripts/verify_wiki.py`

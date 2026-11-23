@@ -9,7 +9,7 @@ WIKI = os.path.join(os.path.dirname(ROOT), 'wiki')
 J = json.load(open(os.path.join(ROOT, 'data', 'summary.json')))
 base = pd.read_csv(os.path.join(ROOT, 'data', 'iowa_wiki_99_counties_by_population.csv')).rename(columns={'certified_2026': 'cert'})
 val, d = make(base)
-RAW = 'https://raw.githubusercontent.com/mbenson8989/Iowa-Election-Analysis/main/'
+RAW = 'https://raw.githubusercontent.com/mbenson8989/Iowa-Election-Analysis/main/graphics/'
 CEDAR = 'https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit'
 NEWIKI = 'https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki'
 BUILT = datetime.datetime.now().strftime('%b %d %Y %H:%M')
