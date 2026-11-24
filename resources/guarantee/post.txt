@@ -1,0 +1,34 @@
+Guarantee Clause social posts — Iowa (DRAFT ONLY)
+Not posted to X or anywhere else. Not pushed to GitHub.
+Character counts are Python len() on the exact strings below. No URL.
+
+============================================================
+RECOMMENDED POST
+Python len() = 263  (limit 280)
+============================================================
+Did you know? It's NOT your job to prove our elections are free and fair. The Guarantee Clause puts that on the government. EO 14399 (Mar. 31, 2026, 91 FR 17125) cites it and calls enforcing federal law an "unavoidable duty." Iowa, the burden is on them, not you.
+
+============================================================
+ALTERNATE
+Python len() = 277  (limit 280)
+============================================================
+Did you know? It's NOT your job to prove our elections are free and fair. The Guarantee Clause puts that on the government. EO 14399 (March 31, 2026, 91 FR 17125) cites it and says the government has an "unavoidable duty" under Article II to keep public confidence in outcomes.
+
+============================================================
+ACCURACY NOTES (internal, not part of the post)
+============================================================
+- Opening line is the required wording.
+- U.S. Const. Art. IV, § 4 (National Archives transcription):
+  "The United States shall guarantee to every State in this Union a Republican Form of Government, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence."
+  Source: https://www.archives.gov/founding-docs/constitution-transcript
+- EO 14399, "Ensuring Citizenship Verification and Integrity in Federal Elections," was signed March 31, 2026, and published April 3, 2026, at 91 FR 17125 (pages 17125-17128), FR Doc. 2026-06601.
+  Sources:
+  https://www.federalregister.gov/documents/2026/04/03/2026-06601/ensuring-citizenship-verification-and-integrity-in-federal-elections
+  https://www.govinfo.gov/content/pkg/FR-2026-04-03/pdf/2026-06601.pdf
+- The authority clause of the order cites the Guarantee Clause:
+  "the Federal Government's constitutional obligation to guarantee a republican form of Government to every State in the Union, U.S. Const. Art. IV, Sec. 4"
+- The phrase "unavoidable duty" is in Section 1 and is attached to Article II, not to Article IV:
+  "The Federal Government has an unavoidable duty under Article II of the Constitution of the United States to enforce Federal law, which includes preventing violations of Federal criminal law and maintaining public confidence in election outcomes."
+- The recommended post says the order cites the Guarantee Clause and calls enforcing federal law an "unavoidable duty." It does not claim that the Guarantee Clause itself uses the words "unavoidable duty."
+- The alternate names Article II expressly, which is the more precise attribution of "unavoidable duty."
+- Graphics quote the clause and the Section 1 sentence verbatim, with typographic quotation marks only.
